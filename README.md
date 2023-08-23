@@ -6,7 +6,6 @@ A robust platform developed during our web development course, facilitating stud
 
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
-3. 
 ## Features
 
 - **User Registration**: Students can register for an account.
